@@ -175,7 +175,7 @@
 
 <img src="https://raw.githubusercontent.com/VISHNUpsr0/VISHNUpsr0/main/chess-bot/board.svg" width="320" alt="Current chess board"/>
 
-**[▶ Make your move](YOUR_CHESS_ISSUE_URL)**
+**[▶ Make your move](https://github.com/VISHNUpsr0/VISHNUpsr0/issues/1)**
 
 Comment your move in UCI (`e2e4`) or SAN (`e4`, `Nf3`) format — a real Stockfish engine replies in ~20s and the board above updates automatically. Comment `new game` anytime to reset.
 
