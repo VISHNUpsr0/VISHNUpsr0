@@ -179,30 +179,15 @@
 
 ---
 
-<h2 align="center">🧠 Brain Teasers</h2>
+<h2 align="center">♟️ Play Chess Against My Bot</h2>
 
 <div align="center">
 
-<details>
-<summary><b>1. I have branches but never grow leaves, and I can be merged without a lawyer. What am I?</b></summary>
-<br/>
-A Git repository 🌳
-<br/><br/>
-</details>
+<img src="https://raw.githubusercontent.com/VISHNUpsr0/VISHNUpsr0/main/chess-bot/board.svg" width="320" alt="Current chess board"/>
 
-<details>
-<summary><b>2. I call myself to get my job done. What am I?</b></summary>
-<br/>
-A recursive function 🔁
-<br/><br/>
-</details>
+**[▶ Make your move](YOUR_CHESS_ISSUE_URL)**
 
-<details>
-<summary><b>3. I'm in every program, but you only notice me when something goes wrong. What am I?</b></summary>
-<br/>
-A bug 🐛
-<br/><br/>
-</details>
+Comment your move in UCI (`e2e4`) or SAN (`e4`, `Nf3`) format — a real Stockfish engine replies in ~20s and the board above updates automatically. Comment `new game` anytime to reset.
 
 </div>
 
