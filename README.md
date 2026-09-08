@@ -15,6 +15,20 @@
 
 ---
 
+<h2 align="center">💬 Ask My AI Assistant</h2>
+
+<div align="center">
+<table>
+<tr><td>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=You%3A+What+do+you+build%3F;Bot%3A+RAG+pipelines+%26+ML+systems+%F0%9F%9A%80;You%3A+Favorite+stack%3F;Bot%3A+Python+%2B+LangGraph+%2B+FastAPI;You%3A+What+are+you+building+now%3F;Bot%3A+Something+new...+stay+tuned" alt="Fake chat animation"/>
+
+</td></tr>
+</table>
+</div>
+
+---
+
 <h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
@@ -34,6 +48,12 @@
 <a href="mailto:vishnupsr0@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
 </a>
+</td>
+<td align="center" width="96">
+<a href="https://instagram.com/YOUR_INSTAGRAM_URL" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
+</a>
+</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -52,7 +72,7 @@
 </a>
 </td>
 <td align="center" width="96">
-<a href="" target="_blank">
+<a href="YOUR_RESUME_LINK" target="_blank">
 <img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="55" height="55" alt="Resume"/>
 </a>
 </td>
@@ -67,7 +87,7 @@
 <h3 align="center">GenAI / LLMs</h3>
 <div align="center">
 <table><tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/><br/><sub>Groq API</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/><br/><sub>Groq API</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/mistralai/FA520F" width="55" height="55" alt="Mistral-7B"/><br/><sub>Mistral-7B</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="LoRA/PEFT"/><br/><sub>LoRA / PEFT</sub></td>
@@ -155,6 +175,35 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="90%"/>
+</div>
+
+---
+
+<h2 align="center">🧠 Brain Teasers</h2>
+
+<div align="center">
+
+<details>
+<summary><b>1. I have branches but never grow leaves, and I can be merged without a lawyer. What am I?</b></summary>
+<br/>
+A Git repository 🌳
+<br/><br/>
+</details>
+
+<details>
+<summary><b>2. I call myself to get my job done. What am I?</b></summary>
+<br/>
+A recursive function 🔁
+<br/><br/>
+</details>
+
+<details>
+<summary><b>3. I'm in every program, but you only notice me when something goes wrong. What am I?</b></summary>
+<br/>
+A bug 🐛
+<br/><br/>
+</details>
+
 </div>
 
 ---
