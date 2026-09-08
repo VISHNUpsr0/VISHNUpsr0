@@ -17,16 +17,6 @@
 
 
 
-<div align="center">
-<table>
-<tr><td>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=You%3A+What+do+you+build%3F;Bot%3A+RAG+pipelines+%26+ML+systems+%F0%9F%9A%80;You%3A+Favorite+stack%3F;Bot%3A+Python+%2B+LangGraph+%2B+FastAPI;You%3A+What+are+you+building+now%3F;Bot%3A+Something+new...+stay+tuned" alt="Fake chat animation"/>
-
-</td></tr>
-</table>
-</div>
-
 ---
 
 <h2 align="center">🔗 Connect With Me</h2>
