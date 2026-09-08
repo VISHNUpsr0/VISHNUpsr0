@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">💬 Ask My AI Assistant</h2>
+
 
 <div align="center">
 <table>
