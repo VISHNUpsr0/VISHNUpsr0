@@ -1,0 +1,50 @@
+name: Chess Bot
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    # Only react on the dedicated chess issue, and never to the bot's own comments
+    if: >
+      contains(github.event.issue.title, 'Chess vs Bot') &&
+      github.event.comment.user.login != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Stockfish
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq stockfish
+          echo "/usr/games" >> "$GITHUB_PATH"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install python-chess
+
+      - name: Play move
+        env:
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: python chess-bot/play_move.py
+
+      - name: Commit updated board
+        run: |
+          git config user.name "chess-bot"
+          git config user.email "actions@github.com"
+          git add chess-bot/state.fen chess-bot/board.svg
+          git diff --staged --quiet || git commit -m "Chess bot: update board"
+          git push
