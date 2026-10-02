@@ -1,24 +1,41 @@
-# Vishnu P | Python Backend Developer & AI/ML
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:111C3D,100:312E81&height=180&section=header&text=VISHNU%20P&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%2FML%20%26%20Generative%20AI&descSize=17&descAlignY=62&descColor=A5B4FC" width="100%" alt="Vishnu P GitHub profile header"/>
+<!-- Replace assets/profile.jpg with your own profile photo -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-VISHNUpsr0-111827?style=for-the-badge\&logo=github)](https://github.com/VISHNUpsr0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vishnu-p-128520202/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://ai-portfolio-3miu-kappa.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vishnupsr0@gmail.com)
+<img src="./assets/header.svg" width="100%" alt="Vishnu P — Python Backend Developer & AI/ML">
+
+<br>
+
+<a href="https://github.com/VISHNUpsr0">
+  <img src="https://img.shields.io/badge/GitHub-VISHNUpsr0-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/vishnu-p-128520202/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://ai-portfolio-3miu-kappa.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:vishnupsr0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=VISHNUpsr0&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views">
 
 </div>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```python
 class Vishnu:
+
     name = "Vishnu P"
     role = "Python Backend Developer"
+
     interests = [
         "Backend Development",
         "Machine Learning",
@@ -26,171 +43,234 @@ class Vishnu:
         "LLM Applications",
         "Retrieval-Augmented Generation"
     ]
+
     currently_building = "AI-powered applications"
     philosophy = "Build. Learn. Deploy. Improve."
-```
-
-I develop **backend applications and AI-powered solutions** using Python, REST APIs, LLMs, and modern development tools.
-
-* 🔭 Building backend services and AI-integrated applications.
-* 🤖 Exploring LLMs, RAG pipelines, and AI workflows.
-* ⚙️ Learning to design maintainable APIs and scalable applications.
-* 🎯 Focused on practical projects and continuous improvement.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### Backend & APIs
-
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
-</p>
-
-### AI, Machine Learning & Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
-<img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge" alt="Mistral"/>
-</p>
-
-### Frontend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 CI/CD Log Debugging Assistant
-
-An AI-assisted developer tool designed to analyze CI/CD logs, identify potential failures, and help with debugging.
-
-**Technologies**
-
-`Python` `FastAPI` `Mistral-7B` `LoRA/PEFT` `ChromaDB`
-
-[Explore repositories →](https://github.com/VISHNUpsr0?tab=repositories)
 
 </td>
-<td width="50%" valign="top">
 
-### 📄 DocuChat — Document Q&A
+<td width="45%" valign="top">
 
-A document question-answering application using retrieval-augmented generation to retrieve relevant information from uploaded documents.
+🎯 What I'm Building
 
-**Technologies**
+🐍 Python backend applications
 
-`Python` `FastAPI` `LangGraph` `FAISS` `Groq` `React` `PyMuPDF`
+⚡ REST APIs & scalable services
 
-[Explore repositories →](https://github.com/VISHNUpsr0?tab=repositories)
+🤖 AI/ML & Generative AI solutions
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🧠 LLM & RAG applications
 
-### ⚙️ Django REST API
+📄 Document intelligence systems
 
-Backend development using Django REST Framework, covering CRUD operations, API integration, authentication, and database management.
+🛠️ Developer productivity tools
 
-**Technologies**
+<br>
 
-`Python` `Django` `DRF` `SQLite` `JWT`
-
-[Explore repositories →](https://github.com/VISHNUpsr0?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 What I Enjoy Building
-
-* REST APIs and backend services
-* LLM-powered applications
-* RAG and document search systems
-* AI-integrated web applications
-* Developer productivity tools
+Turning ideas into practical software — from architecture to deployment.
 
 </td>
 </tr>
 </table>
 
----
+🛠️ Tech Stack
 
-## 📊 GitHub Statistics
+<table>
+<tr>
+<td width="20%" valign="top">
+
+🐍 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js" width="130">
+
+</td>
+
+<td width="25%" valign="top">
+
+⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" width="220">
+
+</td>
+
+<td width="30%" valign="top">
+
+🤖 AI / ML / GenAI
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-412991?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/FAISS-1877F2?style=flat-square">
+<img src="https://img.shields.io/badge/LoRA%2FPEFT-8B5CF6?style=flat-square">
+
+</td>
+
+<td width="25%" valign="top">
+
+🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,git,github,linux,vscode" width="220">
+
+</td>
+</tr>
+</table>
+
+🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🤖 CI/CD Log Debugging Assistant</h3>
+
+AI-assisted developer tool designed to analyze CI/CD logs, identify potential failures and help developers with debugging.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Mistral--7B-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/LoRA%2FPEFT-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square">
+
+<br><br>
+
+<a href="https://github.com/VISHNUpsr0?tab=repositories">🔗 Explore Repository →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>📄 DocuChat — Document Q&A</h3>
+
+RAG-based application that helps users retrieve relevant information from uploaded documents.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-412991?style=flat-square">
+<img src="https://img.shields.io/badge/FAISS-1877F2?style=flat-square">
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827">
+<img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=flat-square">
+
+<br><br>
+
+<a href="https://github.com/VISHNUpsr0?tab=repositories">🔗 Explore Repository →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>⚙️ Django REST API</h3>
+
+Backend development using Django REST Framework, including CRUD operations, API integration, authentication and database management.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+
+<br><br>
+
+<a href="https://github.com/VISHNUpsr0?tab=repositories">🔗 Explore Repository →</a>
+
+</td>
+
+</tr>
+</table>
+
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VISHNUpsr0&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=60A5FA&text_color=CBD5E1&include_all_commits=true" alt="GitHub statistics"/>
+<table>
+<tr>
+<td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUpsr0&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VISHNUpsr0&show_icons=true&hide_border=true&bg_color=071329&title_color=A78BFA&icon_color=8B5CF6&text_color=E5EDFF&ring_color=8B5CF6" height="180" alt="GitHub Stats">
 
-<br/>
+</td>
+<td>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=VISHNUpsr0&hide_border=true&background=0B1020&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUpsr0&layout=compact&hide_border=true&bg_color=071329&title_color=A78BFA&text_color=E5EDFF" height="180" alt="Top Languages">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=VISHNUpsr0&hide_border=true&background=071329&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5EDFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA8C3" width="70%" alt="GitHub Streak">
 
 </div>
 
----
-
-## 📈 Contribution Activity
+📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&bg_color=0B1020&color=CBD5E1&line=818CF8&point=A78BFA&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&bg_color=071329&color=E5EDFF&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%" alt="Contribution Activity">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&theme=react-dark&hide_border=true" width="95%" alt="GitHub Contribution Graph">
 
 </div>
 
----
+💡 What I Enjoy Building
 
-## 🌐 Connect With Me
+<table>
+<tr>
+<td>🐍 REST APIs & backend services</td>
+<td>🤖 LLM-powered applications</td>
+</tr>
+<tr>
+<td>📚 RAG & document search systems</td>
+<td>⚡ AI-integrated web applications</td>
+</tr>
+<tr>
+<td>🛠️ Developer productivity tools</td>
+<td>🧠 Practical ML solutions</td>
+</tr>
+</table>
+
+🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vishnu-p-128520202/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/VISHNUpsr0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge\&logo=googlechrome)](https://ai-portfolio-3miu-kappa.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:vishnupsr0@gmail.com)
+<a href="https://www.linkedin.com/in/vishnu-p-128520202/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<br/>
+<a href="https://github.com/VISHNUpsr0">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-**Building a better tomorrow with AI & software.**
+<a href="https://ai-portfolio-3miu-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-*Build · Learn · Deploy · Improve*
+<a href="mailto:vishnupsr0@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071329,50:1a0b45,100:071329&height=3&section=footer">
+
+BUILD • LEARN • DEPLOY • IMPROVE
+
+Building a better tomorrow with AI & software.
 
 </div>
