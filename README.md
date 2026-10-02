@@ -1,156 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=200&section=header&text=VISHNU.P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=220&section=header&text=VISHNU.P&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<br/>
+<h3>Building AI-powered products • Developing scalable applications • Turning ideas into working software</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Turning+data+into+deployable+ML+solutions" alt="Typing SVG"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VISHNUpsr0&color=A78BFA&style=flat&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/VISHNUpsr0?label=Followers&style=flat&color=A78BFA" alt="Followers"/>
+<p>
+<a href="https://github.com/VISHNUpsr0">
+<img src="https://img.shields.io/github/followers/VISHNUpsr0?style=for-the-badge&logo=github&label=Followers&color=6C63FF"/>
+</a>
+<a href="https://github.com/VISHNUpsr0">
+<img src="https://komarev.com/ghpvc/?username=VISHNUpsr0&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS"/>
+</a>
+</p>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
 
+```python
+class Vishnu:
+
+    role = "AI/ML Engineer & Software Developer"
+
+    focus = [
+        "Machine Learning",
+        "Generative AI",
+        "LLM Applications",
+        "Backend Development",
+        "Full-Stack Development"
+    ]
+
+    currently_building = "AI-powered applications"
+
+    philosophy = "Build. Learn. Deploy. Improve."
+```
+
+I’m a developer focused on building **AI-powered applications and production-oriented software**.
+
+My interests include **Machine Learning, Generative AI, LLM applications, backend systems, and full-stack development**.
+
+I enjoy taking an idea from:
+
+**Problem → Architecture → Development → AI Integration → Deployment**
 
 ---
 
-<h2 align="center">🔗 Connect With Me</h2>
+## 🚀 What I Build
 
-<div align="center">
 <table>
 <tr>
-<td align="center" width="96">
-<a href="https://www.linkedin.com/in/vishnu-p-128520202/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-</a>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML Systems
+
+* Machine Learning applications
+* Generative AI solutions
+* LLM-powered applications
+* RAG systems
+* AI agents & workflows
+* Computer Vision
+* Model integration & deployment
+
 </td>
-<td align="center" width="96">
-<a href="https://github.com/VISHNUpsr0" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-</a>
+
+<td width="50%" valign="top">
+
+### 💻 Software Applications
+
+* REST APIs
+* Backend services
+* Full-stack applications
+* Real-time applications
+* Database-driven systems
+* Automation tools
+* AI-integrated web applications
+
 </td>
-<td align="center" width="96">
-<a href="mailto:vishnupsr0@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
-</a>
-</td>
-<td align="center" width="96">
-<a href="https://instagram.com/YOUR_INSTAGRAM_URL" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<a href="YOUR_DISCORD_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/>
-</a>
-</td>
-<td align="center" width="96">
-<a href="https://ai-portfolio-3miu-kappa.vercel.app/" target="_blank">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55" height="55" alt="Portfolio"/>
-</a>
-</td>
-<td align="center" width="96">
-<a href="https://kaggle.com/YOUR_KAGGLE_URL" target="_blank">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
-</a>
-</td>
-<td align="center" width="96">
-<a href="YOUR_RESUME_LINK" target="_blank">
-<img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="55" height="55" alt="Resume"/>
-</a>
-</td>
+
 </tr>
 </table>
-</div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🧠 Technical Skills
 
-<h3 align="center">GenAI / LLMs</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/><br/><sub>Groq API</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangGraph"/><br/><sub>LangGraph</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/mistralai/FA520F" width="55" height="55" alt="Mistral-7B"/><br/><sub>Mistral-7B</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="LoRA/PEFT"/><br/><sub>LoRA / PEFT</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/meta/0866FF" width="55" height="55" alt="FAISS"/><br/><sub>FAISS</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/chromadb/FF6F00" width="55" height="55" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
-</tr></table>
-</div>
+### 🤖 AI / Generative AI
 
-<h3 align="center">Languages</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br/><sub>Python</sub></td>
-</tr></table>
-</div>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mistral-FA520F?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+</p>
 
-<h3 align="center">AI & ML</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/ultralytics/5FCB1F" width="55" height="55" alt="YOLOv8"/><br/><sub>YOLOv8</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" height="55" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
-</tr></table>
-</div>
+### 🧠 Machine Learning
 
-<h3 align="center">Data Science</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/><br/><sub>NumPy</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/><br/><sub>Pandas</sub></td>
-</tr></table>
-</div>
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-5FCB1F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FFD21E?style=flat-square"/>
+</p>
 
-<h3 align="center">Web & App Dev</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/fastapi/009688" width="55" height="55" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/><br/><sub>Flask</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/><br/><sub>React</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/><br/><sub>Flutter</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/websocket/000000" width="55" height="55" alt="WebSocket"/><br/><sub>WebSocket</sub></td>
-</tr></table>
-</div>
+### ⚙️ Backend & Development
 
-<h3 align="center">Cloud & Infra</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br/><sub>Docker</sub></td>
-</tr></table>
-</div>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square"/>
+</p>
 
-<h3 align="center">Databases</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br/><sub>MySQL</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
-</tr></table>
-</div>
+### 🗄️ Databases
 
-<h3 align="center">Dev Tools</h3>
-<div align="center">
-<table><tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/><sub>GitHub</sub></td>
-</tr></table>
-</div>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+</p>
+
+### 🛠️ Tools & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 🔥 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering Projects
+
+**AI-Powered Applications**
+
+Building applications that combine LLMs, RAG, vector databases and intelligent workflows.
+
+**Technologies**
+
+`Python` `LLMs` `LangGraph` `FAISS` `ChromaDB`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Projects
+
+**Production-Oriented Applications**
+
+Building backend APIs and full-stack applications with real-time communication, databases and AI integration.
+
+**Technologies**
+
+`FastAPI` `React` `Node.js` `MongoDB` `Docker`
+
+</td>
+
+</tr>
+</table>
+
+> 🚀 Project repositories and live demos will be added here as they are completed.
+
+---
+
+## 🏗️ Currently Building
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  AI ENGINEERING                                   │
+│                                                    │
+│  ▸ LLM Applications                               │
+│  ▸ RAG Systems                                    │
+│  ▸ AI Agents                                      │
+│  ▸ ML Model Deployment                            │
+│                                                    │
+│  SOFTWARE ENGINEERING                             │
+│                                                    │
+│  ▸ Backend APIs                                   │
+│  ▸ Full-Stack Applications                        │
+│  ▸ Real-Time Systems                              │
+│  ▸ Developer Tools                                │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=VISHNUpsr0&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUpsr0&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
 
 <br/>
@@ -161,40 +218,48 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="90%"/>
-</div>
-
----
-
-
----
+## 📊 Contribution Activity
 
 <div align="center">
 
-> "The best way to predict the future is to build it."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%"/>
 
 </div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-```
-┌──────────────────────────────────────────┐
-│                                            │
-│     🚧  STATUS: BUILDING                  │
-│     Learning today. Shipping tomorrow.    │
-│                                            │
-└──────────────────────────────────────────┘
-```
+<a href="https://www.linkedin.com/in/vishnu-p-128520202/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VISHNUpsr0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:vishnupsr0@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ai-portfolio-3miu-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+
+### 💡 Build things that solve real problems.
+
+**Learning → Building → Deploying → Improving**
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=120&section=footer" width="100%"/>
+
 </div>
