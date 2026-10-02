@@ -218,15 +218,6 @@ Building backend APIs and full-stack applications with real-time communication, 
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNUpsr0&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
